@@ -1,0 +1,22 @@
+h2.text-center {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.container-cards {
+  width: 1000px;
+  margin: auto;
+}
+
+@media(max-width: 1000px) {
+  .container-cards {
+    width: 500px;
+  }
+}
+
+@media(max-width: 500px) {
+  .container-cards {
+    width: 400px;
+  }
+}

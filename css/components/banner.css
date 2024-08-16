@@ -1,0 +1,7 @@
+.banner{
+  background-image: url("../../images/gadgets.jpg");
+  background-color: transparent;
+  height: 500px;
+  width: 100%;
+  background-size: cover;
+}
